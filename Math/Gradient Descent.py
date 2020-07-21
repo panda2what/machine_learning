@@ -8,3 +8,8 @@
 @Software: PyCharm
  
 '''
+def main():
+    print("###FINISH###")
+
+if __name__=='__main__':
+    main()
